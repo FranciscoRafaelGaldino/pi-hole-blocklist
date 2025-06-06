@@ -1,0 +1,69 @@
+# YouTube
+youtube.com
+www.youtube.com
+m.youtube.com
+i.ytimg.com
+ytimg.com
+googlevideo.com
+
+# Netflix
+netflix.com
+www.netflix.com
+nflxvideo.net
+nflximg.net
+nflxso.net
+nflxext.com
+
+# TikTok
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+api.tiktok.com
+v16m.tiktokcdn.com
+tiktokcdn.com
+
+# Spotify
+spotify.com
+www.spotify.com
+api.spotify.com
+spclient.wg.spotify.com
+apresolve.spotify.com
+
+# Amazon Prime Video
+primevideo.com
+www.primevideo.com
+fls-na.amazon.com
+amazonvideo.com
+
+# Disney+
+disneyplus.com
+www.disneyplus.com
+bamgrid.com
+disney.demdex.net
+
+# Instagram
+instagram.com
+www.instagram.com
+cdninstagram.com
+
+# Facebook Watch
+facebook.com
+video.xx.fbcdn.net
+fbcdn.net
+
+# Twitch
+twitch.tv
+www.twitch.tv
+static.twitchcdn.net
+ttvnw.net
+
+# Deezer
+deezer.com
+www.deezer.com
+api.deezer.com
+cdns-preview-b.dzcdn.net
+
+# GloboPlay
+globoplay.globo.com
+video.globo.com
+globo.com
